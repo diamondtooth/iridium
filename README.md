@@ -1,4 +1,4 @@
-iridium
+Iridium
 =======
 
 A side-scrolling shooter.
