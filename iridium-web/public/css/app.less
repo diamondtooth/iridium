@@ -1,0 +1,35 @@
+body {
+    font:       14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    margin:     0;
+    width:      100%;
+}
+
+#iridium {
+    canvas {
+        margin: 0 auto;
+    }
+}
+
+#orientation {
+    text-align: center;
+}
+
+@media only screen and (orientation: portrait) {
+    #iridium {
+        display: none;
+    }
+
+    #orientation {
+        display: block;
+    }
+}
+
+@media only screen and (orientation: landscape) {
+    #iridium {
+        display: block;
+    }
+
+    #orientation {
+        display: none;
+    }
+}

@@ -27,6 +27,6 @@ node_modules
 # Users Environment Variables
 .lock-wscript
 
-#Intellij files
+.DS_Store
 *.iml
 .idea/
