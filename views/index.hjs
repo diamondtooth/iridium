@@ -29,7 +29,7 @@
             Diamond Tooth Games <i class="fa fa-copyright"></i> 2014
         </div>
 
-        <script src="js/jquery/jquery.js"></script>
+        <script src="js/jquery/jquery-1.11.1.js"></script>
         <script src="js/bootstrap/bootstrap.js"></script>
     </div>
 </body>
